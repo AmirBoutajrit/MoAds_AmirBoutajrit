@@ -28,7 +28,7 @@ Smooth animations and responsive design
 
 Tech Stack
 
-Next.js 16 • Tailwind CSS v4 • TypeScript • Canvas API • Vercel Deployment
+Next.js 16 | Tailwind CSS v4 | TypeScript | Canvas API | Vercel Deployment
 
 Limitations
 
